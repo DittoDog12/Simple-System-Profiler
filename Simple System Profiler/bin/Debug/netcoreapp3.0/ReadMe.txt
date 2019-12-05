@@ -8,6 +8,6 @@ Command Line arguments:
 
 Edit OutputDir.txt to specify alternative survey save location
 EG
-\\server\clientapps\_transfer\surveys
+\\server\share\surveys
 
 Leave as HERE for running directory.
