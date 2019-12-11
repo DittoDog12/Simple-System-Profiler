@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code Projects\\APG Utilities\\Simple System Profiler\\Simple System Profiler\\Simple System Profiler.csproj": {}
+    "E:\\Code Projects\\APG Utilities\\Simple-System-Profiler\\Simple System Profiler\\Simple System Profiler.csproj": {}
   },
   "projects": {
-    "E:\\Code Projects\\APG Utilities\\Simple System Profiler\\Simple System Profiler\\Simple System Profiler.csproj": {
+    "E:\\Code Projects\\APG Utilities\\Simple-System-Profiler\\Simple System Profiler\\Simple System Profiler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code Projects\\APG Utilities\\Simple System Profiler\\Simple System Profiler\\Simple System Profiler.csproj",
+        "projectUniqueName": "E:\\Code Projects\\APG Utilities\\Simple-System-Profiler\\Simple System Profiler\\Simple System Profiler.csproj",
         "projectName": "Simple System Profiler",
-        "projectPath": "E:\\Code Projects\\APG Utilities\\Simple System Profiler\\Simple System Profiler\\Simple System Profiler.csproj",
+        "projectPath": "E:\\Code Projects\\APG Utilities\\Simple-System-Profiler\\Simple System Profiler\\Simple System Profiler.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "E:\\Code Projects\\APG Utilities\\Simple System Profiler\\Simple System Profiler\\obj\\",
+        "outputPath": "E:\\Code Projects\\APG Utilities\\Simple-System-Profiler\\Simple System Profiler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

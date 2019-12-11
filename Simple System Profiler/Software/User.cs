@@ -33,7 +33,7 @@ namespace Simple_System_Profiler.Software
             // NEW METHOD - Uses Environment
             string mUser = Environment.UserName;
 
-            pSpecs.Add("User_Account ", mUser);
+            pSpecs.Add("User_Account", mUser);
 
             // OLD METHOD - Uses System.Management
 
